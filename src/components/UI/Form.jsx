@@ -58,7 +58,7 @@ const Form = () => {
                     </div>
                     <div className="inputBox">
                     <input type="hidden" name="_template" value="table"/>
-                    <input type="hidden" name="_next" value="https://lecygnex.com"/>
+                    <input type="hidden" name="_next" value="https://lecygnex.netlify.app/"/>
                     <input type="hidden" name="_captcha" value="false"/>
                     <input type="submit" name='submit' value={'Submit'}/>
                     </div>
