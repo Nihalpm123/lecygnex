@@ -113,7 +113,16 @@
 @media only screen and (max-width: 460px){
     .primary__btn,
     .secondary__btn{
-        margin-left: 40px;
+        margin-left: 50px;
+        font-size: 0.7rem;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 410px){
+    .primary__btn,
+    .secondary__btn{
+        margin-left: 33px;
         font-size: 0.7rem;
         text-align: center;
     }
@@ -122,6 +131,6 @@
 @media only screen and (max-width: 370px){
     .primary__btn,
     .secondary__btn{
-       margin-left: 33px;
+       margin-left: 25px;
     }
 }
