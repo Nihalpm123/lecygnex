@@ -18,7 +18,7 @@ const Hero = () => {
                     Driving your business towards greater success.</p>
 
                     <div className="hero__btns">
-                        <button className='primary__btn'><a href="https://wa.link/2au1do">Get Started</a></button>
+                        <button className='primary__btn'><a href="https://wa.me/918089666204?text=">Get Started</a></button>
                         <button className="secondary__btn"><a href="https://www.instagram.com/le_cygnex?igsh=YXo4d3ZzY2FuMXB5">Discover More</a></button>
                     </div>
                 </div>
