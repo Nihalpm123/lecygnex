@@ -32,7 +32,7 @@ const Form = () => {
                     <div className="icon"><FaPhoneVolume /></div>
                     <div className="text">
                         <h3>Phone</h3>
-                        <p>9633443070</p>
+                        <p>+91 8089666204</p>
                     </div>
                 </div>  
             </div>
