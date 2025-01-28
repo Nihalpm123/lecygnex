@@ -7,17 +7,17 @@ const chooseData = [
   {
     icon:'ri-wifi-line',
     title:'First working process',
-    desc:'We strategize, design, and develop user-focused digital solutions tailored to your goals. After rigorous testing, we launch your product and provide ongoing support to ensure success.'
+    desc:'We craft and launch user-centric digital solutions aligned with your goals, ensuring quality through rigorous testing and offering continuous support for success.'
   },
   {
     icon:'ri-team-line',
     title:'Dedicated team',
-    desc:'Our dedicated team of experts combines creativity, innovation, and technical excellence to deliver exceptional digital solutions. We work closely with you to bring your vision to life and ensure outstanding results.'
+    desc:'Our team combines creativity, innovation, and technical expertise to deliver tailored digital solutions that bring your vision to life.'
   },
   {
     icon:'ri-customer-service-2-fill',
     title:'Support',
-    desc:'We provide reliable, ongoing support to ensure your digital product runs smoothly and adapts to your evolving needs. Our team is always available to address issues and implement improvements promptly.'
+    desc:'We offer dependable support to ensure your digital product runs seamlessly and adapts to your needs, with quick issue resolution and prompt improvements.'
   }
 ]
 
@@ -30,7 +30,7 @@ const About = () => {
             <h6 className="subtitle">Why choose us</h6>
             <h2>Experts in Navigating Complex</h2>
             <h2 className="highlight">Challenges and Driving Growth</h2>
-            <p className="description about__content-desc">We specialize in helping clients overcome complex challenges with tailored strategies and expert guidance. Our approach focuses on providing clear, actionable solutions that drive long-term growth and success. With a deep understanding of your needs, we ensure that every step is taken to transform challenges into opportunities.</p>
+            <p className="description about__content-desc">We help clients overcome challenges with tailored strategies and expert guidance, delivering actionable solutions for long-term growth and success. By understanding your needs, we turn challenges into opportunities.</p>
             
             <div className='choose__item-wrapper'>
               {
