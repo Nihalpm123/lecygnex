@@ -44,6 +44,8 @@
 .primary__btn{
     background: var(--btn-secondary-bg);
     border: 1px solid var(--btn-primary-bg);
+    border: none;
+    outline: none;
 }
 
 .secondary__btn{
