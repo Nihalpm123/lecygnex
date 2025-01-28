@@ -6,7 +6,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: var(--newsletter-bg);
+    -webkit-box-shadow: -1px 6px 33px -1px rgba(77,76,77,0.77);
+    -moz-box-shadow: -1px 6px 33px -1px rgba(77,76,77,0.77);
+    box-shadow: -1px 6px 33px -1px rgba(77,76,77,0.77);
 }
 
 
@@ -16,7 +18,7 @@
 }
 
 .contact .content-form h2{
-    font-size:  36px;
+    font-size:  32px;
     font-weight: 500;
     color: #fff;
     margin-bottom: 8px;
@@ -24,7 +26,7 @@
 
 .contact .content-form p{
     font-weight: 300;
-    color: #fff;
+    color: #040405;
 }
 
 .container-form{
@@ -50,7 +52,7 @@
 .container-form .contactInfo .box .icon{
     min-width: 60px;
     height: 60px;
-    background: #fff;
+    background: #1e07ee;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,18 +60,22 @@
     font-size: 22px;
 }
 
+.icon{
+    color: #fff;
+}
+
 .container-form .contactInfo .box .text{
     display: flex;
     margin-left: 20px;
     font-size: 16px;
-    color: #fff;
+    color: #000000;
     flex-direction: column;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .container-form .contactInfo .box .text h3{
     font-weight: 500;
-    color: #00bcd4;
+    color: #030404;
 }
 
 .contactForm{
@@ -77,6 +83,9 @@
     padding: 40px;
     background: #fff;
     border-radius: 10px;
+    -webkit-box-shadow: -1px 6px 19px -7px rgba(93,167,252,1);
+    -moz-box-shadow: -1px 6px 19px -7px rgba(93,167,252,1);
+    box-shadow: -1px 6px 19px -7px rgba(93,167,252,1);
 }
 
 .contactForm h2{
