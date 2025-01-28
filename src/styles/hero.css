@@ -133,6 +133,6 @@
 @media only screen and (max-width: 370px){
     .primary__btn,
     .secondary__btn{
-       margin-left: 25px;
+       margin-left: 20px;
     }
 }
