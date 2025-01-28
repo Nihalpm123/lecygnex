@@ -44,6 +44,7 @@
     font-size: 0.9rem;
     font-weight: 300;
     cursor: pointer;
+    color: var(--primary-color);
 }
 
 .quick__link-item a:hover{
@@ -51,7 +52,7 @@
 }
 
 .copyright{
-    color: rgba(255, 255, 255, 0.573);
+    color: rgba(0, 0, 0, 0.888);
     margin-top: 40px;
     text-align: center;
     font-size: 0.9rem;

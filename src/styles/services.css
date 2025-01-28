@@ -38,7 +38,7 @@
 }
 
 .service__title{
-    color: var(--primary-color);
+    color: #fff;
     font-size: 1.3rem;
     margin-bottom: 30px;
 }
