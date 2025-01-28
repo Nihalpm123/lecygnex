@@ -15,10 +15,10 @@ const nav__links = [
     path:'#service',
     display: 'Service'
   },
-  {
-    path:'#projects',
-    display: 'Projects'
-  },
+  // {
+  //   path:'#projects',
+  //   display: 'Projects'
+  // },
   {
     path:'#blog',
     display: 'Blog'
