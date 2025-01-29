@@ -22,11 +22,11 @@
     font-weight: 500;
     font-size: .9rem;
     cursor: pointer;
-    color: #f6f6f6;
+    color: #000000;
 }
 
 .menu__link:hover{
-    color: var(--link-active);
+    color: #0d2681;
 }
 
 .logo h2{
