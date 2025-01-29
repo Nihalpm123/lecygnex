@@ -59,7 +59,7 @@ const Footer = () => {
                     <h2>LE CYGNEX</h2>
                     <p className="description">Grow with us</p>
 
-                    <p className="small__text description">We specialize in innovative online solutions like social media, SEO, and email campaigns. Our mission is to help brands grow by leveraging data-driven strategies to engage their target audience effectively.</p>
+                    {/* <p className="small__text description">We specialize in innovative online solutions like social media, SEO, and email campaigns. Our mission is to help brands grow by leveraging data-driven strategies to engage their target audience effectively.</p> */}
                 </div>
 
                 <div className="footer__quick-links">
