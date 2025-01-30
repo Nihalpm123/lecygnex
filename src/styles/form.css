@@ -82,10 +82,10 @@
     width: 40%;
     padding: 40px;
     background: #fff;
-    border-radius: 10px;
-    -webkit-box-shadow: -1px 6px 19px -7px rgba(93,167,252,1);
-    -moz-box-shadow: -1px 6px 19px -7px rgba(93,167,252,1);
-    box-shadow: -1px 6px 19px -7px rgba(93,167,252,1);
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 6px 19px -7px rgb(4, 17, 31);
+    -moz-box-shadow: -1px 6px 19px -7px rgb(12, 19, 26);
+    box-shadow: -1px 6px 19px -7px rgb(2, 3, 4);
 }
 
 .contactForm h2{
@@ -134,13 +134,13 @@
 
 .contactForm .inputBox input[type="submit"]{
     width: 100px;
-    background: #028f7ac1;
+    background: #2e07a4;
     color: #fff;
     border: none;
     cursor: pointer;
     padding: 10px;
-    font-size: 18px;
-    border-radius: 7px;
+    font-size: 17px;
+    border-radius: 8px;
 }
 
 
