@@ -62,7 +62,7 @@ const Footer = () => {
                     {/* <p className="small__text description">We specialize in innovative online solutions like social media, SEO, and email campaigns. Our mission is to help brands grow by leveraging data-driven strategies to engage their target audience effectively.</p> */}
                 </div>
 
-                <div className="footer__quick-links">
+                {/* <div className="footer__quick-links">
                     <h3 className="quick__links-title">Solution</h3>
 
                     <ul className="quick__links">
@@ -96,7 +96,7 @@ const Footer = () => {
                             ))
                         }
                     </ul>
-                </div>
+                </div> */}
             </div>
 
             <p className="copyright">Copyright {year},  developed by le_cygnex.  All rights reserved.{" "} </p>
