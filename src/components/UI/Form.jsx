@@ -6,7 +6,7 @@ import { FaLocationDot } from "react-icons/fa6";
 
 const Form = () => {
   return (
-   <section className='contact'>
+   <section className='contact' id='contact'>
         <div className="content-form">
             <h2>Get In Touch</h2>
             <p></p>
