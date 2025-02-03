@@ -5,9 +5,9 @@
 :root {
   --primary-color: rgb(20, 2, 104);
   --heading-color: rgb(20, 2, 104);
-  --btn-primary-bg: #111587c1;
-  --btn-secondary-bg: #f41a54;
-  --team-card-bg: #1b2352;
+  --btn-primary-bg: #050855c1;
+  --btn-secondary-bg: #f84f25;
+  --team-card-bg: #0f184c;
   --link-color: #f9faf8;
   --link-active: rgb(239, 235, 255);
   --card-bg: linear-gradient(
