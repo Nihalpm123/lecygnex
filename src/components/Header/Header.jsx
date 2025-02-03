@@ -19,10 +19,14 @@ const nav__links = [
   //   path:'#projects',
   //   display: 'Projects'
   // },
+  // {
+  //   path:'#blog',
+  //   display: 'Blog'
+  // },
   {
-    path:'#blog',
-    display: 'Blog'
-  },
+    path:'#contact',
+    display: 'Contact Us'
+  }
 ]
 
 const Header = () => {
