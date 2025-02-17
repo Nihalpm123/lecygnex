@@ -3,8 +3,12 @@
     justify-content: space-between;
 }
 
-.hero__content, .hero__img{
+.hero__content{
     width: 50%;
+}
+
+.hero__img{
+    margin-top: 90px;
 }
 
 .hero__content{
