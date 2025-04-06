@@ -13,9 +13,9 @@ const Hero = () => {
                         <h2>Welcome to Le Cygnex</h2>
                         <h2>Elevate Your Brand Digitally</h2>
                     </div>
-                    <p className="description">At Le Cygnex, we bring creativity, strategy, and technology together to help businesses thrive in the digital world. Specializing in digital posters, logo design, video creation & editing, social media marketing (SMM), motion graphics, and website development, we craft compelling digital experiences that leave a lasting impact. <br />
-                    <span className='highlight'>Our mission is simple – to transform your ideas into visually stunning, engaging, and results-driven digital solutions. Whether you're a startup looking for brand identity or an established business aiming to enhance your online presence, Le Cygnex delivers innovative and tailored strategies to help you stand out.</span> <br />
-                    Let’s shape the future of your brand together. Partner with Le Cygnex and make your digital presence unforgettable.
+                    <p className="description">At Le Cygnex, we bring creativity, strategy, and technology together to help businesses thrive in the digital world. <br />
+                    <span className='highlight'>Our mission is simple – to transform your ideas into visually stunning, engaging, and results-driven digital solutions.</span> <br />
+                    Let’s shape the future of your brand together.
                     </p>
 
                     <div className="hero__btns">
