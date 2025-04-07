@@ -27,6 +27,8 @@
 
 .highlight{
     color: var(--primary-color);
+    font-size: 17px;
+    font-weight: 600;
 }
 
 .hero__btns{
