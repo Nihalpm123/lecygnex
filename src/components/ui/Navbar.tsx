@@ -1,9 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { Copy, Menu, X } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { useState } from "react";
-import { cn } from "@/lib/utils";
+
 import { motion, AnimatePresence } from "framer-motion";
 
 export default function Navbar() {

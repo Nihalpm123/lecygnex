@@ -15,11 +15,11 @@ export default function AboutSection() {
                     >
                         <div className="absolute -inset-4 bg-primary/20 blur-3xl opacity-30 rounded-full" />
                         <h2 className="relative text-3xl md:text-5xl font-bold text-white mb-6 leading-tight">
-                            We Don't Just Design. <br />
+                            We Don&apos;t Just Design. <br />
                             <span className="text-primary">We Engineer Success.</span>
                         </h2>
                         <p className="relative text-gray-400 text-lg mb-6">
-                            At <strong className="text-white">Le Cygnex</strong>, we believe that powerful design is more than just aesthetics—it’s a strategic asset. We combine artistic vision with data-driven insights to build digital experiences that convert, engage, and inspire.
+                            At <strong className="text-white">Le Cygnex</strong>, we believe that powerful design is more than just aesthetics—it&apos;s a strategic asset. We combine artistic vision with data-driven insights to build digital experiences that convert, engage, and inspire.
                         </p>
                         <div className="relative grid grid-cols-2 gap-8 mt-8">
                             <div>
