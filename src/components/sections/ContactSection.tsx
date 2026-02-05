@@ -19,10 +19,10 @@ export default function ContactSection() {
                         viewport={{ once: true }}
                     >
                         <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-500">
-                            Let's Build the Future
+                            Let&apos;s Build the Future
                         </h2>
                         <p className="text-gray-400 text-lg mb-8">
-                            Ready to elevate your brand? Tell us about your project, and let's craft something extraordinary together.
+                            Ready to elevate your brand? Tell us about your project, and let&apos;s craft something extraordinary together.
                         </p>
                         <div className="space-y-4 text-gray-300">
                             <p>Email: cygnexle@gmail.com</p>
