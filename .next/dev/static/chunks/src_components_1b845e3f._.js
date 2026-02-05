@@ -508,7 +508,7 @@ function AboutSection() {
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/src/components/sections/AboutSection.tsx",
                                         lineNumber: 18,
-                                        columnNumber: 51
+                                        columnNumber: 56
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "text-primary",
@@ -536,7 +536,7 @@ function AboutSection() {
                                         lineNumber: 22,
                                         columnNumber: 32
                                     }, this),
-                                    ", we believe that powerful design is more than just aesthetics—it’s a strategic asset. We combine artistic vision with data-driven insights to build digital experiences that convert, engage, and inspire."
+                                    ", we believe that powerful design is more than just aesthetics—it's a strategic asset. We combine artistic vision with data-driven insights to build digital experiences that convert, engage, and inspire."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/sections/AboutSection.tsx",

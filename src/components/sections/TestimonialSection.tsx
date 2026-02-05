@@ -53,7 +53,7 @@ export default function TestimonialSection() {
                         >
                             <Quote className="text-primary mb-6 opacity-50" size={40} />
                             <p className="text-gray-300 mb-6 leading-relaxed">
-                                "{testimonial.content}"
+                                &quot;{testimonial.content}&quot;
                             </p>
                             <div className="flex items-center gap-4">
                                 <div className="w-10 h-10 rounded-full bg-gradient-to-br from-primary to-secondary flex items-center justify-center text-white font-bold text-sm">

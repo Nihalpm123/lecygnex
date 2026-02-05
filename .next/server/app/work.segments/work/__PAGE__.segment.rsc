@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[58244,["/_next/static/chunks/1dccf4ac933ece8b.js","/_next/static/chunks/ed819509329b80cc.js","/_next/static/chunks/899488400156f697.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"GtZCM7XHSE6O4WopixM8g","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen pt-32 pb-24 px-6 md:px-12 bg-black","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":[["$","div",null,{"className":"mb-16","children":[["$","h1",null,{"className":"text-4xl md:text-6xl font-bold text-white mb-6","children":["Our ",["$","span",null,{"className":"text-primary","children":"Masterpieces"}]]}],["$","p",null,{"className":"text-gray-400 text-lg md:text-xl max-w-2xl","children":"A curated collection of our most impactful digital experiences. Where creativity meets technical precision."}]]}],["$","$L2",null,{}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/899488400156f697.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
